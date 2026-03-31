@@ -14,7 +14,9 @@
 
 Используется ModelSerializer для преобразования объектов базы данных в JSON и валидации входящих данных от фронтенда перед сохранением.
 3. API Endpoints (views.py & urls.py)
+
 <img width="597" height="516" alt="image" src="https://github.com/user-attachments/assets/2aa9936d-d9d6-49ab-946a-046cf9b11cb8" />
+
 <img width="731" height="212" alt="image" src="https://github.com/user-attachments/assets/51bfd13b-dc57-406d-9db4-59ba9f7f8d05" />
 
 Используются либо APIView, либо ModelViewSet для реализации стандартных операций:
